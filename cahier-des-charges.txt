@@ -1,0 +1,40 @@
+Introduction et Objectifs
+Toujours et en toutes circonstances utiliser la méthode TDD
+Créer un plugin WordPress pour un assistant IA nommé Alejandro, fonctionnant comme un super majordome ou concierge.
+Alejandro doit fournir des services diversifiés et personnalisés, tout en restant intégré à l'environnement WordPress.
+Utilisateurs Cibles
+Membres Premium: Services personnalisés et recommandations basées sur leurs préférences et historique d'interactions.
+Annonceurs et Commerçants: Reconnaissance des membres annonceurs, présentation dans les résultats de recherche, et outils adaptés pour les services et interactions commerciales.
+Fonctionnalités Clés
+Traitement du Langage Naturel
+Utilisation de l'API de Claude d'Anthropic pour le traitement du langage naturel.
+Synthèse et Reconnaissance Vocale
+Intégration de l'API ElevenLabs ou équivalent pour la synthèse et reconnaissance vocale.
+Alternatives : Speechly / Google Cloud Speech-to-Text pour une reconnaissance vocale avancée.
+Géolocalisation et Navigation
+Intégration de Google Maps pour la navigation et la recherche locale.
+Fonctionnalités de carte interactive, navigation, et recherche de lieux dans la région d'Andalousie.
+Gestion des Données Utilisateurs
+Historique des interactions, favoris, et recommandations personnalisées.
+Intégration avec MemberPress pour gérer les droits utilisateurs et rôles dédiés.
+Multimodalité
+Chat Écrit et Vocal:
+Interface de chat écrit et vocal pour les interactions avec les utilisateurs.
+Envoi et réception de médias (images, vidéos).
+Notifications:
+Notifications push et rappels personnalisés via Twilio ou SendGrid.
+Autres Fonctionnalités
+Informations Locales et Météorologiques:
+Intégration avec WeatherAPI pour fournir des informations météorologiques.
+Traductions:
+Fonctionnalité de traduction pour faciliter les interactions multilingues.
+Gestion des Médias:
+Intégration avec Cloudinary pour la gestion et l'optimisation des médias (images/vidéos).
+Paiements et Réservations:
+Intégration avec Stripe/PayPal pour les paiements et les réservations.
+Intégrations Techniques
+Compatibilité
+Compatible avec MemberPress, WooCommerce, Dokan, Directorist pour une intégration complète des fonctionnalités de gestion des membres et des transactions.
+Optimisation et Sécurité
+Optimisation SQL, cache et logs d’interactions pour améliorer les performances.
+Sécurité renforcée : utilisation de HTTPS et respect des normes RGPD.

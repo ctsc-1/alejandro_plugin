@@ -1,0 +1,39 @@
+.alejandro-language-switcher {
+    margin: 10px 0;
+}
+
+.alejandro-language-switcher .language-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 10px;
+}
+
+.alejandro-language-switcher .language-list li {
+    margin: 0;
+    padding: 0;
+}
+
+.alejandro-language-switcher .language-list a {
+    display: block;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 3px;
+    color: #333;
+    background: #f5f5f5;
+    transition: all 0.2s ease;
+}
+
+.alejandro-language-switcher .language-list li.active a {
+    background: #0073aa;
+    color: white;
+}
+
+.alejandro-language-switcher .language-list a:hover {
+    background: #e0e0e0;
+}
+
+.alejandro-language-switcher .language-list li.active a:hover {
+    background: #006291;
+}

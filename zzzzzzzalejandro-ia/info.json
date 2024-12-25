@@ -1,0 +1,14 @@
+{
+    "name": "Alejandro IA",
+    "version": "1.0.0",
+    "download_url": "https://clubcostatropical.es/wp-content/plugins/alejandro-ia/alejandro-ia.zip",
+    "requires": "5.0",
+    "tested": "6.4.2",
+    "requires_php": "7.4",
+    "last_updated": "2024-12-23 18:50:00",
+    "sections": {
+        "description": "Assistant virtuel intelligent pour le Club Costa Tropical. Intègre des services de météo, traduction, et information géographique.",
+        "installation": "1. Téléchargez le plugin\n2. Activez-le dans WordPress\n3. Configurez vos clés API\n4. Utilisez le shortcode [alejandro_chatbot] sur vos pages",
+        "changelog": "1.0.0 - Version initiale\n- Intégration des services météo\n- Service de traduction\n- Services Google Maps\n- Interface chatbot"
+    }
+}
